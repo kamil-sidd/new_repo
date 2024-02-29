@@ -1,5 +1,6 @@
 # folder with forward / to ignore the file 
 
-# newfolder/
+newfolder/
+*.log
 # index.html
 # *.html
